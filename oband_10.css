@@ -1,0 +1,117 @@
+    input[type=text], input[type=submit] {
+        padding: 7px;
+        color: yellow;
+        background: #1c2900;
+        border: 2px solid #385400;
+                     }
+    input[type=text]:hover, input[type=submit]:hover {
+        text-shadow: 0 1px 0px #FF00FF,0 0 3px #FF00FF,0 0 5px #FF00FF,0 0 30px #FF00FF,0 3px 50px #FF00FF;
+                     }
+a { 
+  color: #75bf00; 
+  text-decoration : none;
+}
+a:hover {
+color : #ff4e00;
+text-decoration : none;
+}
+.ctr {
+text-align: center
+}
+h1, h2, h3, h4, h5, h6 {
+font-size : 16px;
+margin: 0px;
+padding: 0px;
+}
+body {
+color: #CCCCCC;
+font-size : 16px;
+background-color : #000;
+margin : 0;
+padding : 0;
+border : 1px solid #3b3b3b;
+margin: 0;
+margin: auto;
+max-width: 900px;
+}
+.bmenu {
+color : #0084b5;
+text-shadow : #000000 1px 1px 2px;
+background-color : #030500;
+background-image : url(https://raw.githubusercontent.com/onaniband/extcdn/master/3068006_a48667a3f6.gif);
+background-repeat : repeat-x;
+margin-top : 1px;
+background-position : 50% top;
+margin-bottom : 1px;
+padding : 5px;
+}
+.gmenu {
+color : #75bf00;
+background-color : #030500;
+background-image : url(https://raw.githubusercontent.com/onaniband/extcdn/master/3068007_e0b1d0e2fa.gif);
+background-repeat : repeat-x;
+background-position : 50% top;
+margin-top : 1px;
+margin-bottom : 1px;
+padding : 5px;
+text-align: center;
+border : 1px solid #415f00;
+}
+.header, .footer {
+margin: 1px;
+padding: 1px;
+color : #a9a9a9;
+text-shadow : #000000 1px 1px 2px;
+background-color : #0a0a0a;
+background-repeat : repeat-x;
+background-position : 50% top;
+margin-bottom : 1px;
+padding: 2px;
+border : 1px solid #333333;
+}
+.list1 {
+background-color : #101010;
+margin-top : 1px;
+margin-bottom : 1px;
+padding : 2px;
+border : 1px solid #323232;
+}
+.list2 {
+background-color : #212121;
+margin-top : 1px;
+margin-bottom : 1px;
+padding : 2px;
+border : 1px solid #323232;
+}
+.rmenu, .alarm {
+color : #bd0000;
+background-color : #050000;
+background-image : url(https://raw.githubusercontent.com/onaniband/extcdn/master/3068010_45cedbbf98.gif);
+background-repeat : repeat-x;
+background-position : 50% top;
+margin-top : 1px;
+margin-bottom : 1px;
+padding : 5px;
+border : 1px solid #590000;
+}
+.red1 { 
+color: #bd2a43; 
+border-width: 1px; 
+border-color: #7f1a2a; 
+border-style: solid; 
+margin-top: 1px; 
+margin-bottom: 1px; 
+padding: 7px; 
+}
+.menu {
+background-color : #040404;
+background-image : url(https://raw.githubusercontent.com/onaniband/extcdn/master/3068008_1e2965b078.gif);
+background-repeat : repeat-x;
+background-position : 50% bottom;
+margin-top : 1px;
+margin-bottom : 1px;
+padding : 2px;
+border : 1px solid #353535;
+}
+table { width: 100% }
+td { padding: 5px; }
