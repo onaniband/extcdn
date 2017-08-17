@@ -1,5 +1,5 @@
 <div style="width: 100%">
-  <div class="width: 47%">
+  <div class="width: 47%; float: left;">
 &raquo; <a href="/" title="Home">Home</a> <br />
 &raquo; <a href="https://onani.eu/" title="Stafaband">Stafaband</a> <br />
 &raquo; <a href="http://www.facelagu.com" title="FaceLagu">FaceLagu</a> <br />
@@ -16,4 +16,5 @@
 &raquo; <a href="https://borwap.onani.eu" title="Borwap">Borwap</a> <br />
 &raquo; <a href="https://www.youtubemp34.info/" title="Youtube Mp3">Youtube Mp3</a>
       </div>
+       <div style="clear:both;"></div>
 </div>      
