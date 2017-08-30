@@ -1,7 +1,7 @@
 <div style="width: 100%">
   <div style="width: 47%; float: left;">
 &raquo; <a href="/" title="Home">Home</a> <br />
-&raquo; <a href="https://onani.eu/" title="Stafaband">Stafaband</a> <br />
+&raquo; <a href="https://wap.stafaband.cam/" title="Stafaband">Stafaband</a> <br />
 &raquo; <a href="http://www.facelagu.com" title="FaceLagu">FaceLagu</a> <br />
 &raquo; <a href="https://anime.blogfilm.us" title="Anime Samehadaku">Anime</a> <br />
 &raquo; <a href="https://sikwap.onaniband.com/" title="Sikwap">Sikwap</a> <br />
@@ -14,7 +14,7 @@
 &raquo; <a href="https://stafaband.onaniband.com/" title="Stafaband">Stafaband</a> <br />
 &raquo; <a href="https://drakorindo.blogfilm.us" title="Drakorindo">Drakorindo</a> <br />
 &raquo; <a href="https://borwap.onaniband.com/" title="Borwap">Borwap</a> <br />
-&raquo; <a href="https://www.youtubemp34.info/" title="Youtube Mp3">Youtube Mp3</a>
+&raquo; <a href="https://kiospulsa.co/" title="Beli Pulsa Via PayPal">Pulsa Via PayPal</a>
       </div>
        <div style="clear:both;"></div>
 </div>      
