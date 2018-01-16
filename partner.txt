@@ -1,6 +1,5 @@
 <div style="width: 100%">
   <div style="width: 47%; float: left;">
-&raquo; <a href="/" title="Home">Home</a> <br />
 &raquo; <a href="https://stafa.onani.eu/" title="Stafaband">Stafaband</a> <br />
 &raquo; <a href="https://wapftp.men/" title="Wapftp">Wapftp</a>
 
