@@ -1,19 +1,12 @@
 <div style="width: 100%">
   <div style="width: 47%; float: left;">
 &raquo; <a href="/" title="Home">Home</a> <br />
-&raquo; <a href="https://wap.stafaband.cam/" title="Stafaband">Stafaband</a> <br />
-&raquo; <a href="http://www.facelagu.com" title="FaceLagu">FaceLagu</a> <br />
-&raquo; <a href="https://anime.blogfilm.us" title="Anime Samehadaku">Anime</a> <br />
-&raquo; <a href="https://sikwap.onaniband.com/" title="Sikwap">Sikwap</a> <br />
+&raquo; <a href="https://stafa.onani.eu/" title="Stafaband">Stafaband</a> <br />
 &raquo; <a href="https://wapftp.men/" title="Wapftp">Wapftp</a>
 
    </div>
      <div style="width: 47%; float: right;">
 &raquo; <a href="https://bokep.onaniband.com/" title="Bokep">Bokep</a> <br />
-&raquo; <a href="https://planetlagu.onaniband.com/" title="PlanetLagu">PlanetLagu</a> <br />
-&raquo; <a href="https://stafaband.onaniband.com/" title="Stafaband">Stafaband</a> <br />
-&raquo; <a href="https://drakorindo.blogfilm.us" title="Drakorindo">Drakorindo</a> <br />
-&raquo; <a href="https://borwap.onaniband.com/" title="Borwap">Borwap</a> <br />
 &raquo; <a href="https://www.nagapulsa.com/" title="Beli Pulsa Via PayPal">Pulsa Via PayPal</a>
       </div>
        <div style="clear:both;"></div>
